@@ -13,7 +13,8 @@ HashCode ne veut pas seulement apprendre à construire des produits. La communau
 Le portefeuille initial comprend **15 projets** dans trois domaines : Web & Software Engineering, Cybersecurity et Applied AI.
 
 → [Voir le portefeuille Global Impact](docs/projets-impact-global.md)  
-→ [Voir la cartographie de l'écosystème](docs/cartographie-projets.md)
+→ [Voir la cartographie de l'écosystème](docs/cartographie-projets.md)  
+→ [Voir le modèle de pilotage GitHub Projects](docs/github-project-management.md)
 
 ## Parcours Contributor
 
@@ -85,6 +86,7 @@ Le dépôt organise le programme Contributor. Les projets opérationnels restent
 - [Catalogue des missions](missions/README.md)
 - [Global Impact Program](docs/projets-impact-global.md)
 - [Cartographie des projets](docs/cartographie-projets.md)
+- [GitHub Projects — modèle de pilotage](docs/github-project-management.md)
 
 ## Principes
 
